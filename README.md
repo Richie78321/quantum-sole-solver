@@ -1,1 +1,3 @@
-# QC-1470-Final-Project
+# Solving Linear Systems of Equations using HHL
+
+Brian Grammer, Jeff Leonata, Richie Goulazian
